@@ -3,6 +3,7 @@
 	"author": "deyblorens",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "microservice", "guide"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
