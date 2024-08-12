@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "deyblorens",
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "microservice", "guide"],
 	"dependencies": {
 		"express": "^4.19.2"
 	},
@@ -13,4 +14,5 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
+	
 }
